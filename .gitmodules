@@ -1,0 +1,3 @@
+[submodule "exercises-rust-rustlings"]
+	path = exercises-rust-rustlings
+	url = https://github.com/JuanGiacalone/exercises-rust-rustlings
